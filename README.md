@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kawinpat and you can call me Kong
+- 👋 Hi, I’m Kawinpat and you can call me Kong
 
 - 👀 I’m interested in Frontend developer and Backend developrt with JavaScript Framework (Vue.js, Node.js)
 
