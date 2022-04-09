@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React.js and other interesting
 
-- 💞️ I’m looking to collaborate on Leading companies and startups
+- 💞️ I'm looking to collaborate on Enterprise companies and startups
 
 - 📫 I can be reached anytime via email at kawinpat.ra@gmail.com or my cell phone, +66(TH) 093-751-4400.
 
