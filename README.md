@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kawinpat and you can call me Kong
 
-- 👀 I’m interested in Frontend developer and Backend developrt with JavaScript Framework (Vue.js, Node.js)
+- 👀 I’m interested in Frontend developer and Backend developer with JavaScript Framework (Vue.js, Node.js)
 
 - 🌱 I’m currently learning React.js and other interesting
 
