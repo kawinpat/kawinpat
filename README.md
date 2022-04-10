@@ -8,6 +8,8 @@
 
 - 📫 I can be reached anytime via email at kawinpat.ra@gmail.com or my cell phone, +66(TH) 093-751-4400.
 
+- Covid-19 report : https://covid-19-report-9887a.web.app
+
 <!---
 kawinpat/kawinpat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
