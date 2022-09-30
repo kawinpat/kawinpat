@@ -8,7 +8,7 @@
 
 - 📫 I can be reached anytime via email at kawinpat.ra@gmail.com or my cell phone, +66(TH) 093-751-4400.
 
-- Covid-19 report : https://kawinpat.github.io/profile/
+- My profile : https://kawinpat.github.io/profile/
 
 <!---
 kawinpat/kawinpat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
